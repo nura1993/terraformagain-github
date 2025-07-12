@@ -4,6 +4,3 @@ resource "aws_instance" "my-ec2" {
   key_name = "gangsterkey"
 }
 
-resource "aws_s3_bucket" "name" {
-    bucket = "yvujhjbjbjb"
-}
